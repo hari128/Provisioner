@@ -1,0 +1,7 @@
+access_key = "AKIATGPLVSTSURFW5JHT"
+secret_key = "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"
+vpc_cidr = "10.40.0.0/16"
+vpc_name = "Prod_VPC"
+igw_name = "Prod-IGW"
+region = "us-east-1"
+env = "Prod"
